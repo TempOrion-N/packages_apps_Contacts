@@ -42,7 +42,8 @@
 
     <!-- Color of the selected tab underline -->
     <color name="contacts_accent_color">#FFFFFF</color>
-
+	<color name="edit_contact_text_color">#616161</color>
+	
     <color name="floating_action_button_icon_color">@color/contacts_accent_color</color>
 
     <!-- Horizontal separator line should be 12% dark in the light theme. -->
