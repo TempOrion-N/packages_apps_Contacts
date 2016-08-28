@@ -72,7 +72,7 @@
                 android:paddingStart="72dp"
                 android:gravity="center_vertical"
                 android:text="@string/compact_editor_more_fields"
-                android:textColor="@color/edit_contact_text_color"
+                android:textColor="@color/quickcontact_entry_sub_header_text_color"
                 android:textSize="@dimen/expanding_entry_card_title_text_size"/>
 
     </LinearLayout>
